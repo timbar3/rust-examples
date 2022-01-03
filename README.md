@@ -9,3 +9,5 @@ Repository with examples of rust code to use elsewhere
 |---|---|---|
 |Line 1|Item 2|Item 3|
 |Fred|Justification|Drivel|
+|Line 2 | Item 3 | Item 4|
+|More 1 | More another| Some others|

@@ -5,7 +5,7 @@ Repository with examples of rust code to use elsewhere
 - *_Example 2_*
 - Example 3
 
-|_Table 1_|Heading 2|Another Heading|
+|_Table 1_|#Heading 2|##Another Heading|
 |---|---|---|
 |Line 1|Item 2|Item 3|
 |Fred|Justification|Drivel|
